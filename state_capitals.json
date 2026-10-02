@@ -1,0 +1,252 @@
+[
+    {
+        "state": "Alabama",
+        "capital": "Montgomery",
+        "address": "Alabama State Capitol, Montgomery, Alabama"
+    },
+    {
+        "state": "Alaska",
+        "capital": "Juneau",
+        "address": "Alaska State Capitol, Juneau, Alaska"
+    },
+    {
+        "state": "Arizona",
+        "capital": "Phoenix",
+        "address": "Arizona State Capitol, Phoenix, Arizona"
+    },
+    {
+        "state": "Arkansas",
+        "capital": "Little Rock",
+        "address": "Arkansas State Capitol, Little Rock, Arkansas"
+    },
+    {
+        "state": "California",
+        "capital": "Sacramento",
+        "address": "California State Capitol, Sacramento, California"
+    },
+    {
+        "state": "Colorado",
+        "capital": "Denver",
+        "address": "Colorado State Capitol, Denver, Colorado"
+    },
+    {
+        "state": "Connecticut",
+        "capital": "Hartford",
+        "address": "Connecticut State Capitol, Hartford, Connecticut"
+    },
+    {
+        "state": "Delaware",
+        "capital": "Dover",
+        "address": "Delaware State Capitol, Dover, Delaware"
+    },
+    {
+        "state": "Florida",
+        "capital": "Tallahassee",
+        "address": "Florida State Capitol, Tallahassee, Florida"
+    },
+    {
+        "state": "Georgia",
+        "capital": "Atlanta",
+        "address": "Georgia State Capitol, Atlanta, Georgia"
+    },
+    {
+        "state": "Hawaii",
+        "capital": "Honolulu",
+        "address": "Hawaii State Capitol, Honolulu, Hawaii"
+    },
+    {
+        "state": "Idaho",
+        "capital": "Boise",
+        "address": "Idaho State Capitol, Boise, Idaho"
+    },
+    {
+        "state": "Illinois",
+        "capital": "Springfield",
+        "address": "Illinois State Capitol, Springfield, Illinois"
+    },
+    {
+        "state": "Indiana",
+        "capital": "Indianapolis",
+        "address": "Indiana State Capitol, Indianapolis, Indiana"
+    },
+    {
+        "state": "Iowa",
+        "capital": "Des Moines",
+        "address": "Iowa State Capitol, Des Moines, Iowa"
+    },
+    {
+        "state": "Kansas",
+        "capital": "Topeka",
+        "address": "Kansas State Capitol, Topeka, Kansas"
+    },
+    {
+        "state": "Kentucky",
+        "capital": "Frankfort",
+        "address": "Kentucky State Capitol, Frankfort, Kentucky"
+    },
+    {
+        "state": "Louisiana",
+        "capital": "Baton Rouge",
+        "address": "Louisiana State Capitol, Baton Rouge, Louisiana"
+    },
+    {
+        "state": "Maine",
+        "capital": "Augusta",
+        "address": "Maine State Capitol, Augusta, Maine"
+    },
+    {
+        "state": "Maryland",
+        "capital": "Annapolis",
+        "address": "Maryland State Capitol, Annapolis, Maryland"
+    },
+    {
+        "state": "Massachusetts",
+        "capital": "Boston",
+        "address": "Massachusetts State Capitol, Boston, Massachusetts"
+    },
+    {
+        "state": "Michigan",
+        "capital": "Lansing",
+        "address": "Michigan State Capitol, Lansing, Michigan"
+    },
+    {
+        "state": "Minnesota",
+        "capital": "Saint Paul",
+        "address": "Minnesota State Capitol, Saint Paul, Minnesota"
+    },
+    {
+        "state": "Mississippi",
+        "capital": "Jackson",
+        "address": "Mississippi State Capitol, Jackson, Mississippi"
+    },
+    {
+        "state": "Missouri",
+        "capital": "Jefferson City",
+        "address": "Missouri State Capitol, Jefferson City, Missouri"
+    },
+    {
+        "state": "Montana",
+        "capital": "Helena",
+        "address": "Montana State Capitol, Helena, Montana"
+    },
+    {
+        "state": "Nebraska",
+        "capital": "Lincoln",
+        "address": "Nebraska State Capitol, Lincoln, Nebraska"
+    },
+    {
+        "state": "Nevada",
+        "capital": "Carson City",
+        "address": "Nevada State Capitol, Carson City, Nevada"
+    },
+    {
+        "state": "New Hampshire",
+        "capital": "Concord",
+        "address": "New Hampshire State Capitol, Concord, New Hampshire"
+    },
+    {
+        "state": "New Jersey",
+        "capital": "Trenton",
+        "address": "New Jersey State Capitol, Trenton, New Jersey"
+    },
+    {
+        "state": "New Mexico",
+        "capital": "Santa Fe",
+        "address": "New Mexico State Capitol, Santa Fe, New Mexico"
+    },
+    {
+        "state": "New York",
+        "capital": "Albany",
+        "address": "New York State Capitol, Albany, New York"
+    },
+    {
+        "state": "North Carolina",
+        "capital": "Raleigh",
+        "address": "North Carolina State Capitol, Raleigh, North Carolina"
+    },
+    {
+        "state": "North Dakota",
+        "capital": "Bismarck",
+        "address": "North Dakota State Capitol, Bismarck, North Dakota"
+    },
+    {
+        "state": "Ohio",
+        "capital": "Columbus",
+        "address": "Ohio State Capitol, Columbus, Ohio"
+    },
+    {
+        "state": "Oklahoma",
+        "capital": "Oklahoma City",
+        "address": "Oklahoma State Capitol, Oklahoma City, Oklahoma"
+    },
+    {
+        "state": "Oregon",
+        "capital": "Salem",
+        "address": "Oregon State Capitol, Salem, Oregon"
+    },
+    {
+        "state": "Pennsylvania",
+        "capital": "Harrisburg",
+        "address": "Pennsylvania State Capitol, Harrisburg, Pennsylvania"
+    },
+    {
+        "state": "Rhode Island",
+        "capital": "Providence",
+        "address": "Rhode Island State Capitol, Providence, Rhode Island"
+    },
+    {
+        "state": "South Carolina",
+        "capital": "Columbia",
+        "address": "South Carolina State Capitol, Columbia, South Carolina"
+    },
+    {
+        "state": "South Dakota",
+        "capital": "Pierre",
+        "address": "South Dakota State Capitol, Pierre, South Dakota"
+    },
+    {
+        "state": "Tennessee",
+        "capital": "Nashville",
+        "address": "Tennessee State Capitol, Nashville, Tennessee"
+    },
+    {
+        "state": "Texas",
+        "capital": "Austin",
+        "address": "Texas State Capitol, Austin, Texas"
+    },
+    {
+        "state": "Utah",
+        "capital": "Salt Lake City",
+        "address": "Utah State Capitol, Salt Lake City, Utah"
+    },
+    {
+        "state": "Vermont",
+        "capital": "Montpelier",
+        "address": "Vermont State Capitol, Montpelier, Vermont"
+    },
+    {
+        "state": "Virginia",
+        "capital": "Richmond",
+        "address": "Virginia State Capitol, Richmond, Virginia"
+    },
+    {
+        "state": "Washington",
+        "capital": "Olympia",
+        "address": "Washington State Capitol, Olympia, Washington"
+    },
+    {
+        "state": "West Virginia",
+        "capital": "Charleston",
+        "address": "West Virginia State Capitol, Charleston, West Virginia"
+    },
+    {
+        "state": "Wisconsin",
+        "capital": "Madison",
+        "address": "Wisconsin State Capitol, Madison, Wisconsin"
+    },
+    {
+        "state": "Wyoming",
+        "capital": "Cheyenne",
+        "address": "Wyoming State Capitol, Cheyenne, Wyoming"
+    }
+]

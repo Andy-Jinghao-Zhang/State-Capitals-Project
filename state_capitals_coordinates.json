@@ -1,0 +1,352 @@
+[
+    {
+        "state": "Alabama",
+        "capital": "Montgomery",
+        "address": "Alabama State Capitol, Montgomery, Alabama",
+        "latitude": 32.3777741,
+        "longitude": -86.3002857
+    },
+    {
+        "state": "Alaska",
+        "capital": "Juneau",
+        "address": "Alaska State Capitol, Juneau, Alaska",
+        "latitude": 58.3021347,
+        "longitude": -134.4101513
+    },
+    {
+        "state": "Arizona",
+        "capital": "Phoenix",
+        "address": "Arizona State Capitol, Phoenix, Arizona",
+        "latitude": 33.448122,
+        "longitude": -112.0972114
+    },
+    {
+        "state": "Arkansas",
+        "capital": "Little Rock",
+        "address": "Arkansas State Capitol, Little Rock, Arkansas",
+        "latitude": 34.7466091,
+        "longitude": -92.2892042
+    },
+    {
+        "state": "California",
+        "capital": "Sacramento",
+        "address": "California State Capitol, Sacramento, California",
+        "latitude": 38.5766749,
+        "longitude": -121.4937139
+    },
+    {
+        "state": "Colorado",
+        "capital": "Denver",
+        "address": "Colorado State Capitol, Denver, Colorado",
+        "latitude": 39.7379617,
+        "longitude": -104.9853061
+    },
+    {
+        "state": "Connecticut",
+        "capital": "Hartford",
+        "address": "Connecticut State Capitol, Hartford, Connecticut",
+        "latitude": 41.76414,
+        "longitude": -72.6822665
+    },
+    {
+        "state": "Delaware",
+        "capital": "Dover",
+        "address": "Delaware State Capitol, Dover, Delaware",
+        "latitude": 39.1573179,
+        "longitude": -75.5197365
+    },
+    {
+        "state": "Florida",
+        "capital": "Tallahassee",
+        "address": "Florida State Capitol, Tallahassee, Florida",
+        "latitude": 30.4381743,
+        "longitude": -84.2821703
+    },
+    {
+        "state": "Georgia",
+        "capital": "Atlanta",
+        "address": "Georgia State Capitol, Atlanta, Georgia",
+        "latitude": 33.7501652,
+        "longitude": -84.3859566
+    },
+    {
+        "state": "Hawaii",
+        "capital": "Honolulu",
+        "address": "Hawaii State Capitol, Honolulu, Hawaii",
+        "latitude": 21.3073335,
+        "longitude": -157.8569903
+    },
+    {
+        "state": "Idaho",
+        "capital": "Boise",
+        "address": "Idaho State Capitol, Boise, Idaho",
+        "latitude": 43.6177696,
+        "longitude": -116.1996904
+    },
+    {
+        "state": "Illinois",
+        "capital": "Springfield",
+        "address": "Illinois State Capitol, Springfield, Illinois",
+        "latitude": 39.7984258,
+        "longitude": -89.654918
+    },
+    {
+        "state": "Indiana",
+        "capital": "Indianapolis",
+        "address": "Indiana State Capitol, Indianapolis, Indiana",
+        "latitude": 39.7686684,
+        "longitude": -86.1626157
+    },
+    {
+        "state": "Iowa",
+        "capital": "Des Moines",
+        "address": "Iowa State Capitol, Des Moines, Iowa",
+        "latitude": 41.5910263,
+        "longitude": -93.6032079
+    },
+    {
+        "state": "Kansas",
+        "capital": "Topeka",
+        "address": "Kansas State Capitol, Topeka, Kansas",
+        "latitude": 39.048124,
+        "longitude": -95.6780165
+    },
+    {
+        "state": "Kentucky",
+        "capital": "Frankfort",
+        "address": "Kentucky State Capitol, Frankfort, Kentucky",
+        "latitude": 38.1867227,
+        "longitude": -84.8753908
+    },
+    {
+        "state": "Louisiana",
+        "capital": "Baton Rouge",
+        "address": "Louisiana State Capitol, Baton Rouge, Louisiana",
+        "latitude": 30.4570571,
+        "longitude": -91.1873742
+    },
+    {
+        "state": "Maine",
+        "capital": "Augusta",
+        "address": "Maine State Capitol, Augusta, Maine",
+        "latitude": 44.3071917,
+        "longitude": -69.7817568
+    },
+    {
+        "state": "Maryland",
+        "capital": "Annapolis",
+        "address": "Maryland State Capitol, Annapolis, Maryland",
+        "latitude": 38.9788796,
+        "longitude": -76.4910542
+    },
+    {
+        "state": "Massachusetts",
+        "capital": "Boston",
+        "address": "Massachusetts State Capitol, Boston, Massachusetts",
+        "latitude": 42.358602,
+        "longitude": -71.0638751
+    },
+    {
+        "state": "Michigan",
+        "capital": "Lansing",
+        "address": "Michigan State Capitol, Lansing, Michigan",
+        "latitude": 42.7336057,
+        "longitude": -84.5554583
+    },
+    {
+        "state": "Minnesota",
+        "capital": "Saint Paul",
+        "address": "Minnesota State Capitol, Saint Paul, Minnesota",
+        "latitude": 44.9551922,
+        "longitude": -93.1022203
+    },
+    {
+        "state": "Mississippi",
+        "capital": "Jackson",
+        "address": "Mississippi State Capitol, Jackson, Mississippi",
+        "latitude": 32.3038186,
+        "longitude": -90.1820767
+    },
+    {
+        "state": "Missouri",
+        "capital": "Jefferson City",
+        "address": "Missouri State Capitol, Jefferson City, Missouri",
+        "latitude": 38.5792198,
+        "longitude": -92.17298
+    },
+    {
+        "state": "Montana",
+        "capital": "Helena",
+        "address": "Montana State Capitol, Helena, Montana",
+        "latitude": 46.585739,
+        "longitude": -112.0184275
+    },
+    {
+        "state": "Nebraska",
+        "capital": "Lincoln",
+        "address": "Nebraska State Capitol, Lincoln, Nebraska",
+        "latitude": 40.8080011,
+        "longitude": -96.6997198
+    },
+    {
+        "state": "Nevada",
+        "capital": "Carson City",
+        "address": "Nevada State Capitol, Carson City, Nevada",
+        "latitude": 39.163904,
+        "longitude": -119.7661465
+    },
+    {
+        "state": "New Hampshire",
+        "capital": "Concord",
+        "address": "New Hampshire State Capitol, Concord, New Hampshire",
+        "latitude": 43.2068627,
+        "longitude": -71.5381542
+    },
+    {
+        "state": "New Jersey",
+        "capital": "Trenton",
+        "address": "New Jersey State Capitol, Trenton, New Jersey",
+        "latitude": 40.2202256,
+        "longitude": -74.7701276
+    },
+    {
+        "state": "New Mexico",
+        "capital": "Santa Fe",
+        "address": "New Mexico State Capitol, Santa Fe, New Mexico",
+        "latitude": 35.6823019,
+        "longitude": -105.939634
+    },
+    {
+        "state": "New York",
+        "capital": "Albany",
+        "address": "New York State Capitol, Albany, New York",
+        "latitude": 42.6467004,
+        "longitude": -73.7608686
+    },
+    {
+        "state": "North Carolina",
+        "capital": "Raleigh",
+        "address": "North Carolina State Capitol, Raleigh, North Carolina",
+        "latitude": 35.7803975,
+        "longitude": -78.6390995
+    },
+    {
+        "state": "North Dakota",
+        "capital": "Bismarck",
+        "address": "North Dakota State Capitol, Bismarck, North Dakota",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "state": "Ohio",
+        "capital": "Columbus",
+        "address": "Ohio State Capitol, Columbus, Ohio",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "state": "Oklahoma",
+        "capital": "Oklahoma City",
+        "address": "Oklahoma State Capitol, Oklahoma City, Oklahoma",
+        "latitude": 35.4922055,
+        "longitude": -97.5033333
+    },
+    {
+        "state": "Oregon",
+        "capital": "Salem",
+        "address": "Oregon State Capitol, Salem, Oregon",
+        "latitude": 44.9382743,
+        "longitude": -123.0307767
+    },
+    {
+        "state": "Pennsylvania",
+        "capital": "Harrisburg",
+        "address": "Pennsylvania State Capitol, Harrisburg, Pennsylvania",
+        "latitude": 40.2643941,
+        "longitude": -76.8837375
+    },
+    {
+        "state": "Rhode Island",
+        "capital": "Providence",
+        "address": "Rhode Island State Capitol, Providence, Rhode Island",
+        "latitude": 41.8308956,
+        "longitude": -71.4149587
+    },
+    {
+        "state": "South Carolina",
+        "capital": "Columbia",
+        "address": "South Carolina State Capitol, Columbia, South Carolina",
+        "latitude": 34.0003435,
+        "longitude": -81.0330519
+    },
+    {
+        "state": "South Dakota",
+        "capital": "Pierre",
+        "address": "South Dakota State Capitol, Pierre, South Dakota",
+        "latitude": 44.3671052,
+        "longitude": -100.3463803
+    },
+    {
+        "state": "Tennessee",
+        "capital": "Nashville",
+        "address": "Tennessee State Capitol, Nashville, Tennessee",
+        "latitude": 36.165829,
+        "longitude": -86.7842374
+    },
+    {
+        "state": "Texas",
+        "capital": "Austin",
+        "address": "Texas State Capitol, Austin, Texas",
+        "latitude": 30.2746912,
+        "longitude": -97.7405171
+    },
+    {
+        "state": "Utah",
+        "capital": "Salt Lake City",
+        "address": "Utah State Capitol, Salt Lake City, Utah",
+        "latitude": 40.7773958,
+        "longitude": -111.8882173
+    },
+    {
+        "state": "Vermont",
+        "capital": "Montpelier",
+        "address": "Vermont State Capitol, Montpelier, Vermont",
+        "latitude": 44.2626941,
+        "longitude": -72.5807647
+    },
+    {
+        "state": "Virginia",
+        "capital": "Richmond",
+        "address": "Virginia State Capitol, Richmond, Virginia",
+        "latitude": 37.5388175,
+        "longitude": -77.4335577
+    },
+    {
+        "state": "Washington",
+        "capital": "Olympia",
+        "address": "Washington State Capitol, Olympia, Washington",
+        "latitude": 47.0357718,
+        "longitude": -122.9048521
+    },
+    {
+        "state": "West Virginia",
+        "capital": "Charleston",
+        "address": "West Virginia State Capitol, Charleston, West Virginia",
+        "latitude": 38.3363062,
+        "longitude": -81.6122744
+    },
+    {
+        "state": "Wisconsin",
+        "capital": "Madison",
+        "address": "Wisconsin State Capitol, Madison, Wisconsin",
+        "latitude": 43.0746917,
+        "longitude": -89.3841658
+    },
+    {
+        "state": "Wyoming",
+        "capital": "Cheyenne",
+        "address": "Wyoming State Capitol, Cheyenne, Wyoming",
+        "latitude": 41.1402683,
+        "longitude": -104.8202289
+    }
+]
